@@ -3,7 +3,7 @@
 A Swift command-line client for playing [Mastermind](https://en.wikipedia.org/wiki/Mastermind) using the public API at `https://mastermind.darkube.app`. 
 
 <p align="center">  
-    <img height="auto" width="700px" src ="mastermind.png">
+    <img height="auto" width="400px" src ="mastermind.png">
 </p>
 
 Guess the 4-digit code and get feedback after each guess.
